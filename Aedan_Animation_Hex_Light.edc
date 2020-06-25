@@ -1,0 +1,1038 @@
+images {
+    // image: "Components/ColorHexIconGlow.png" COMP;
+    // image: "Components/ColorIconGlow.png" COMP;
+    // image: "Components/ColorLDSGIconGlow.png" COMP;
+    image: "Components/DarkBGColor.png" COMP;
+    // image: "Components/DarkHexIcon.png" COMP;
+    // image: "Components/DarkHexIconGlow.png" COMP;
+    image: "Components/DarkIcon.png" COMP;
+    image: "Components/DarkIconGlow.png" COMP;
+    // image: "Components/DarkLDSGIcon.png" COMP;
+    // image: "Components/DarkLDSGIconGlow.png" COMP;
+    // image: "Components/DarkLDSGMoire.png" COMP;
+    // image: "Components/DarkMoire.png" COMP;
+    // image: "Components/Diffraction1.png" COMP;
+    // image: "Components/Diffraction2.png" COMP;
+    image: "Components/Flair1.png" COMP;
+    image: "Components/Flair2.png" COMP;
+    image: "Components/Flair3.png" COMP;
+    image: "Components/HexGrid.png" COMP;
+    // image: "Components/LightBGColor.png" COMP;
+    // image: "Components/LightCodeText.png" COMP;
+    image: "Components/LightGradientBGColor.png" COMP;
+    // image: "Components/LightHexIcon.png" COMP;
+    // image: "Components/LightHexIconGlow.png" COMP;
+    // image: "Components/LightIcon.png" COMP;
+    // image: "Components/LightIconGlow.png" COMP;
+    image: "Components/LightMoire.png" COMP;
+    // image: "Components/SquareGrid.png" COMP;
+
+    image: "anim/DarkHexIconGlow_0.png" COMP;
+    image: "anim/DarkHexIconGlow_1.png" COMP;
+    image: "anim/DarkHexIconGlow_2.png" COMP;
+    image: "anim/DarkHexIconGlow_3.png" COMP;
+    image: "anim/DarkHexIconGlow_4.png" COMP;
+    image: "anim/DarkHexIconGlow_5.png" COMP;
+    image: "anim/DarkHexIconGlow_6.png" COMP;
+    image: "anim/DarkHexIconGlow_7.png" COMP;
+    image: "anim/DarkHexIconGlow_8.png" COMP;
+    image: "anim/DarkHexIconGlow_9.png" COMP;
+    image: "anim/DarkHexIconGlow_10.png" COMP;
+    image: "anim/DarkHexIconGlow_11.png" COMP;
+    image: "anim/DarkHexIconGlow_12.png" COMP;
+    image: "anim/DarkHexIconGlow_13.png" COMP;
+    image: "anim/DarkHexIconGlow_14.png" COMP;
+    image: "anim/DarkHexIconGlow_15.png" COMP;
+    image: "anim/DarkHexIconGlow_16.png" COMP;
+    image: "anim/DarkHexIconGlow_17.png" COMP;
+    image: "anim/DarkHexIconGlow_18.png" COMP;
+    image: "anim/DarkHexIconGlow_19.png" COMP;
+    image: "anim/DarkHexIconGlow_20.png" COMP;
+    image: "anim/DarkHexIconGlow_21.png" COMP;
+    image: "anim/DarkHexIconGlow_22.png" COMP;
+    image: "anim/DarkHexIconGlow_23.png" COMP;
+    image: "anim/DarkHexIconGlow_24.png" COMP;
+    image: "anim/DarkHexIconGlow_25.png" COMP;
+    image: "anim/DarkHexIconGlow_26.png" COMP;
+    image: "anim/DarkHexIconGlow_27.png" COMP;
+    image: "anim/DarkHexIconGlow_28.png" COMP;
+    image: "anim/DarkHexIconGlow_29.png" COMP;
+    image: "anim/DarkHexIconGlow_30.png" COMP;
+    image: "anim/DarkHexIconGlow_31.png" COMP;
+    image: "anim/DarkHexIconGlow_32.png" COMP;
+    image: "anim/DarkHexIconGlow_33.png" COMP;
+    image: "anim/DarkHexIconGlow_34.png" COMP;
+    image: "anim/DarkHexIconGlow_35.png" COMP;
+    image: "anim/DarkHexIconGlow_36.png" COMP;
+    image: "anim/DarkHexIconGlow_37.png" COMP;
+    image: "anim/DarkHexIconGlow_38.png" COMP;
+    image: "anim/DarkHexIconGlow_39.png" COMP;
+    image: "anim/DarkHexIconGlow_40.png" COMP;
+    image: "anim/DarkHexIconGlow_41.png" COMP;
+    image: "anim/DarkHexIconGlow_42.png" COMP;
+    image: "anim/DarkHexIconGlow_43.png" COMP;
+    image: "anim/DarkHexIconGlow_44.png" COMP;
+    image: "anim/DarkHexIconGlow_45.png" COMP;
+    image: "anim/DarkHexIconGlow_46.png" COMP;
+    image: "anim/DarkHexIconGlow_47.png" COMP;
+    image: "anim/DarkHexIconGlow_48.png" COMP;
+    image: "anim/DarkHexIconGlow_49.png" COMP;
+    image: "anim/DarkHexIconGlow_50.png" COMP;
+    image: "anim/DarkHexIconGlow_51.png" COMP;
+    image: "anim/DarkHexIconGlow_52.png" COMP;
+    image: "anim/DarkHexIconGlow_53.png" COMP;
+    image: "anim/DarkHexIconGlow_54.png" COMP;
+    image: "anim/DarkHexIconGlow_55.png" COMP;
+    image: "anim/DarkHexIconGlow_56.png" COMP;
+    image: "anim/DarkHexIconGlow_57.png" COMP;
+    image: "anim/DarkHexIconGlow_58.png" COMP;
+    image: "anim/DarkHexIconGlow_59.png" COMP;
+    image: "anim/DarkHexIconGlow_60.png" COMP;
+    image: "anim/DarkHexIconGlow_61.png" COMP;
+    image: "anim/DarkHexIconGlow_62.png" COMP;
+    image: "anim/DarkHexIconGlow_63.png" COMP;
+    image: "anim/DarkHexIconGlow_64.png" COMP;
+    image: "anim/DarkHexIconGlow_65.png" COMP;
+    image: "anim/DarkHexIconGlow_66.png" COMP;
+    image: "anim/DarkHexIconGlow_67.png" COMP;
+    image: "anim/DarkHexIconGlow_68.png" COMP;
+    image: "anim/DarkHexIconGlow_69.png" COMP;
+    image: "anim/DarkHexIconGlow_70.png" COMP;
+    image: "anim/DarkHexIconGlow_71.png" COMP;
+    image: "anim/DarkHexIconGlow_72.png" COMP;
+    image: "anim/DarkHexIconGlow_73.png" COMP;
+    image: "anim/DarkHexIconGlow_74.png" COMP;
+    image: "anim/DarkHexIconGlow_75.png" COMP;
+    image: "anim/DarkHexIconGlow_76.png" COMP;
+    image: "anim/DarkHexIconGlow_77.png" COMP;
+    image: "anim/DarkHexIconGlow_78.png" COMP;
+    image: "anim/DarkHexIconGlow_79.png" COMP;
+    image: "anim/DarkHexIconGlow_80.png" COMP;
+    image: "anim/DarkHexIconGlow_81.png" COMP;
+    image: "anim/DarkHexIconGlow_82.png" COMP;
+    image: "anim/DarkHexIconGlow_83.png" COMP;
+    image: "anim/DarkHexIconGlow_84.png" COMP;
+    image: "anim/DarkHexIconGlow_85.png" COMP;
+    image: "anim/DarkHexIconGlow_86.png" COMP;
+    image: "anim/DarkHexIconGlow_87.png" COMP;
+    image: "anim/DarkHexIconGlow_88.png" COMP;
+    image: "anim/DarkHexIconGlow_89.png" COMP;
+    image: "anim/DarkHexIconGlow_90.png" COMP;
+    image: "anim/DarkHexIconGlow_91.png" COMP;
+    image: "anim/DarkHexIconGlow_92.png" COMP;
+    image: "anim/DarkHexIconGlow_93.png" COMP;
+    image: "anim/DarkHexIconGlow_94.png" COMP;
+    image: "anim/DarkHexIconGlow_95.png" COMP;
+    image: "anim/DarkHexIconGlow_96.png" COMP;
+    image: "anim/DarkHexIconGlow_97.png" COMP;
+    image: "anim/DarkHexIconGlow_98.png" COMP;
+    image: "anim/DarkHexIconGlow_99.png" COMP;
+    image: "anim/DarkHexIconGlow_100.png" COMP;
+    image: "anim/DarkHexIconGlow_101.png" COMP;
+    image: "anim/DarkHexIconGlow_102.png" COMP;
+    image: "anim/DarkHexIconGlow_103.png" COMP;
+    image: "anim/DarkHexIconGlow_104.png" COMP;
+    image: "anim/DarkHexIconGlow_105.png" COMP;
+    image: "anim/DarkHexIconGlow_106.png" COMP;
+    image: "anim/DarkHexIconGlow_107.png" COMP;
+    image: "anim/DarkHexIconGlow_108.png" COMP;
+    image: "anim/DarkHexIconGlow_109.png" COMP;
+    image: "anim/DarkHexIconGlow_110.png" COMP;
+    image: "anim/DarkHexIconGlow_111.png" COMP;
+    image: "anim/DarkHexIconGlow_112.png" COMP;
+    image: "anim/DarkHexIconGlow_113.png" COMP;
+    image: "anim/DarkHexIconGlow_114.png" COMP;
+    image: "anim/DarkHexIconGlow_115.png" COMP;
+    image: "anim/DarkHexIconGlow_116.png" COMP;
+    image: "anim/DarkHexIconGlow_117.png" COMP;
+    image: "anim/DarkHexIconGlow_118.png" COMP;
+    image: "anim/DarkHexIconGlow_119.png" COMP;
+    image: "anim/DarkHexIconGlow_120.png" COMP;
+    image: "anim/DarkHexIconGlow_121.png" COMP;
+    image: "anim/DarkHexIconGlow_122.png" COMP;
+    image: "anim/DarkHexIconGlow_123.png" COMP;
+    image: "anim/DarkHexIconGlow_124.png" COMP;
+    image: "anim/DarkHexIconGlow_125.png" COMP;
+    image: "anim/DarkHexIconGlow_126.png" COMP;
+    image: "anim/DarkHexIconGlow_127.png" COMP;
+    image: "anim/DarkHexIconGlow_128.png" COMP;
+    image: "anim/DarkHexIconGlow_129.png" COMP;
+    image: "anim/DarkHexIconGlow_130.png" COMP;
+    image: "anim/DarkHexIconGlow_131.png" COMP;
+    image: "anim/DarkHexIconGlow_132.png" COMP;
+    image: "anim/DarkHexIconGlow_133.png" COMP;
+    image: "anim/DarkHexIconGlow_134.png" COMP;
+    image: "anim/DarkHexIconGlow_135.png" COMP;
+    image: "anim/DarkHexIconGlow_136.png" COMP;
+    image: "anim/DarkHexIconGlow_137.png" COMP;
+    image: "anim/DarkHexIconGlow_138.png" COMP;
+    image: "anim/DarkHexIconGlow_139.png" COMP;
+    image: "anim/DarkHexIconGlow_140.png" COMP;
+    image: "anim/DarkHexIconGlow_141.png" COMP;
+    image: "anim/DarkHexIconGlow_142.png" COMP;
+    image: "anim/DarkHexIconGlow_143.png" COMP;
+    image: "anim/DarkHexIconGlow_144.png" COMP;
+    image: "anim/DarkHexIconGlow_145.png" COMP;
+    image: "anim/DarkHexIconGlow_146.png" COMP;
+    image: "anim/DarkHexIconGlow_147.png" COMP;
+    image: "anim/DarkHexIconGlow_148.png" COMP;
+    image: "anim/DarkHexIconGlow_149.png" COMP;
+    image: "anim/DarkHexIconGlow_150.png" COMP;
+    image: "anim/DarkHexIconGlow_151.png" COMP;
+    image: "anim/DarkHexIconGlow_152.png" COMP;
+    image: "anim/DarkHexIconGlow_153.png" COMP;
+    image: "anim/DarkHexIconGlow_154.png" COMP;
+    image: "anim/DarkHexIconGlow_155.png" COMP;
+    image: "anim/DarkHexIconGlow_156.png" COMP;
+    image: "anim/DarkHexIconGlow_157.png" COMP;
+    image: "anim/DarkHexIconGlow_158.png" COMP;
+    image: "anim/DarkHexIconGlow_159.png" COMP;
+    image: "anim/DarkHexIconGlow_160.png" COMP;
+    image: "anim/DarkHexIconGlow_161.png" COMP;
+    image: "anim/DarkHexIconGlow_162.png" COMP;
+    image: "anim/DarkHexIconGlow_163.png" COMP;
+    image: "anim/DarkHexIconGlow_164.png" COMP;
+    image: "anim/DarkHexIconGlow_165.png" COMP;
+    image: "anim/DarkHexIconGlow_166.png" COMP;
+    image: "anim/DarkHexIconGlow_167.png" COMP;
+    image: "anim/DarkHexIconGlow_168.png" COMP;
+    image: "anim/DarkHexIconGlow_169.png" COMP;
+    image: "anim/DarkHexIconGlow_170.png" COMP;
+    image: "anim/DarkHexIconGlow_171.png" COMP;
+    image: "anim/DarkHexIconGlow_172.png" COMP;
+    image: "anim/DarkHexIconGlow_173.png" COMP;
+    image: "anim/DarkHexIconGlow_174.png" COMP;
+    image: "anim/DarkHexIconGlow_175.png" COMP;
+    image: "anim/DarkHexIconGlow_176.png" COMP;
+    image: "anim/DarkHexIconGlow_177.png" COMP;
+    image: "anim/DarkHexIconGlow_178.png" COMP;
+    image: "anim/DarkHexIconGlow_179.png" COMP;
+    image: "anim/DarkHexIconGlow_180.png" COMP;
+    image: "anim/DarkHexIconGlow_181.png" COMP;
+    image: "anim/DarkHexIconGlow_182.png" COMP;
+    image: "anim/DarkHexIconGlow_183.png" COMP;
+    image: "anim/DarkHexIconGlow_184.png" COMP;
+    image: "anim/DarkHexIconGlow_185.png" COMP;
+    image: "anim/DarkHexIconGlow_186.png" COMP;
+    image: "anim/DarkHexIconGlow_187.png" COMP;
+    image: "anim/DarkHexIconGlow_188.png" COMP;
+    image: "anim/DarkHexIconGlow_189.png" COMP;
+    image: "anim/DarkHexIconGlow_190.png" COMP;
+    image: "anim/DarkHexIconGlow_191.png" COMP;
+    image: "anim/DarkHexIconGlow_192.png" COMP;
+    image: "anim/DarkHexIconGlow_193.png" COMP;
+    image: "anim/DarkHexIconGlow_194.png" COMP;
+    image: "anim/DarkHexIconGlow_195.png" COMP;
+    image: "anim/DarkHexIconGlow_196.png" COMP;
+    image: "anim/DarkHexIconGlow_197.png" COMP;
+    image: "anim/DarkHexIconGlow_198.png" COMP;
+    image: "anim/DarkHexIconGlow_199.png" COMP;
+
+    image: "anim/DarkHexIcon_0.png" COMP;
+    image: "anim/DarkHexIcon_1.png" COMP;
+    image: "anim/DarkHexIcon_2.png" COMP;
+    image: "anim/DarkHexIcon_3.png" COMP;
+    image: "anim/DarkHexIcon_4.png" COMP;
+    image: "anim/DarkHexIcon_5.png" COMP;
+    image: "anim/DarkHexIcon_6.png" COMP;
+    image: "anim/DarkHexIcon_7.png" COMP;
+    image: "anim/DarkHexIcon_8.png" COMP;
+    image: "anim/DarkHexIcon_9.png" COMP;
+    image: "anim/DarkHexIcon_10.png" COMP;
+    image: "anim/DarkHexIcon_11.png" COMP;
+    image: "anim/DarkHexIcon_12.png" COMP;
+    image: "anim/DarkHexIcon_13.png" COMP;
+    image: "anim/DarkHexIcon_14.png" COMP;
+    image: "anim/DarkHexIcon_15.png" COMP;
+    image: "anim/DarkHexIcon_16.png" COMP;
+    image: "anim/DarkHexIcon_17.png" COMP;
+    image: "anim/DarkHexIcon_18.png" COMP;
+    image: "anim/DarkHexIcon_19.png" COMP;
+    image: "anim/DarkHexIcon_20.png" COMP;
+    image: "anim/DarkHexIcon_21.png" COMP;
+    image: "anim/DarkHexIcon_22.png" COMP;
+    image: "anim/DarkHexIcon_23.png" COMP;
+    image: "anim/DarkHexIcon_24.png" COMP;
+    image: "anim/DarkHexIcon_25.png" COMP;
+    image: "anim/DarkHexIcon_26.png" COMP;
+    image: "anim/DarkHexIcon_27.png" COMP;
+    image: "anim/DarkHexIcon_28.png" COMP;
+    image: "anim/DarkHexIcon_29.png" COMP;
+    image: "anim/DarkHexIcon_30.png" COMP;
+    image: "anim/DarkHexIcon_31.png" COMP;
+    image: "anim/DarkHexIcon_32.png" COMP;
+    image: "anim/DarkHexIcon_33.png" COMP;
+    image: "anim/DarkHexIcon_34.png" COMP;
+    image: "anim/DarkHexIcon_35.png" COMP;
+    image: "anim/DarkHexIcon_36.png" COMP;
+    image: "anim/DarkHexIcon_37.png" COMP;
+    image: "anim/DarkHexIcon_38.png" COMP;
+    image: "anim/DarkHexIcon_39.png" COMP;
+    image: "anim/DarkHexIcon_40.png" COMP;
+    image: "anim/DarkHexIcon_41.png" COMP;
+    image: "anim/DarkHexIcon_42.png" COMP;
+    image: "anim/DarkHexIcon_43.png" COMP;
+    image: "anim/DarkHexIcon_44.png" COMP;
+    image: "anim/DarkHexIcon_45.png" COMP;
+    image: "anim/DarkHexIcon_46.png" COMP;
+    image: "anim/DarkHexIcon_47.png" COMP;
+    image: "anim/DarkHexIcon_48.png" COMP;
+    image: "anim/DarkHexIcon_49.png" COMP;
+    image: "anim/DarkHexIcon_50.png" COMP;
+    image: "anim/DarkHexIcon_51.png" COMP;
+    image: "anim/DarkHexIcon_52.png" COMP;
+    image: "anim/DarkHexIcon_53.png" COMP;
+    image: "anim/DarkHexIcon_54.png" COMP;
+    image: "anim/DarkHexIcon_55.png" COMP;
+    image: "anim/DarkHexIcon_56.png" COMP;
+    image: "anim/DarkHexIcon_57.png" COMP;
+    image: "anim/DarkHexIcon_58.png" COMP;
+    image: "anim/DarkHexIcon_59.png" COMP;
+    image: "anim/DarkHexIcon_60.png" COMP;
+    image: "anim/DarkHexIcon_61.png" COMP;
+    image: "anim/DarkHexIcon_62.png" COMP;
+    image: "anim/DarkHexIcon_63.png" COMP;
+    image: "anim/DarkHexIcon_64.png" COMP;
+    image: "anim/DarkHexIcon_65.png" COMP;
+    image: "anim/DarkHexIcon_66.png" COMP;
+    image: "anim/DarkHexIcon_67.png" COMP;
+    image: "anim/DarkHexIcon_68.png" COMP;
+    image: "anim/DarkHexIcon_69.png" COMP;
+    image: "anim/DarkHexIcon_70.png" COMP;
+    image: "anim/DarkHexIcon_71.png" COMP;
+    image: "anim/DarkHexIcon_72.png" COMP;
+    image: "anim/DarkHexIcon_73.png" COMP;
+    image: "anim/DarkHexIcon_74.png" COMP;
+    image: "anim/DarkHexIcon_75.png" COMP;
+    image: "anim/DarkHexIcon_76.png" COMP;
+    image: "anim/DarkHexIcon_77.png" COMP;
+    image: "anim/DarkHexIcon_78.png" COMP;
+    image: "anim/DarkHexIcon_79.png" COMP;
+    image: "anim/DarkHexIcon_80.png" COMP;
+    image: "anim/DarkHexIcon_81.png" COMP;
+    image: "anim/DarkHexIcon_82.png" COMP;
+    image: "anim/DarkHexIcon_83.png" COMP;
+    image: "anim/DarkHexIcon_84.png" COMP;
+    image: "anim/DarkHexIcon_85.png" COMP;
+    image: "anim/DarkHexIcon_86.png" COMP;
+    image: "anim/DarkHexIcon_87.png" COMP;
+    image: "anim/DarkHexIcon_88.png" COMP;
+    image: "anim/DarkHexIcon_89.png" COMP;
+    image: "anim/DarkHexIcon_90.png" COMP;
+    image: "anim/DarkHexIcon_91.png" COMP;
+    image: "anim/DarkHexIcon_92.png" COMP;
+    image: "anim/DarkHexIcon_93.png" COMP;
+    image: "anim/DarkHexIcon_94.png" COMP;
+    image: "anim/DarkHexIcon_95.png" COMP;
+    image: "anim/DarkHexIcon_96.png" COMP;
+    image: "anim/DarkHexIcon_97.png" COMP;
+    image: "anim/DarkHexIcon_98.png" COMP;
+    image: "anim/DarkHexIcon_99.png" COMP;
+    image: "anim/DarkHexIcon_100.png" COMP;
+    image: "anim/DarkHexIcon_101.png" COMP;
+    image: "anim/DarkHexIcon_102.png" COMP;
+    image: "anim/DarkHexIcon_103.png" COMP;
+    image: "anim/DarkHexIcon_104.png" COMP;
+    image: "anim/DarkHexIcon_105.png" COMP;
+    image: "anim/DarkHexIcon_106.png" COMP;
+    image: "anim/DarkHexIcon_107.png" COMP;
+    image: "anim/DarkHexIcon_108.png" COMP;
+    image: "anim/DarkHexIcon_109.png" COMP;
+    image: "anim/DarkHexIcon_110.png" COMP;
+    image: "anim/DarkHexIcon_111.png" COMP;
+    image: "anim/DarkHexIcon_112.png" COMP;
+    image: "anim/DarkHexIcon_113.png" COMP;
+    image: "anim/DarkHexIcon_114.png" COMP;
+    image: "anim/DarkHexIcon_115.png" COMP;
+    image: "anim/DarkHexIcon_116.png" COMP;
+    image: "anim/DarkHexIcon_117.png" COMP;
+    image: "anim/DarkHexIcon_118.png" COMP;
+    image: "anim/DarkHexIcon_119.png" COMP;
+    image: "anim/DarkHexIcon_120.png" COMP;
+    image: "anim/DarkHexIcon_121.png" COMP;
+    image: "anim/DarkHexIcon_122.png" COMP;
+    image: "anim/DarkHexIcon_123.png" COMP;
+    image: "anim/DarkHexIcon_124.png" COMP;
+    image: "anim/DarkHexIcon_125.png" COMP;
+    image: "anim/DarkHexIcon_126.png" COMP;
+    image: "anim/DarkHexIcon_127.png" COMP;
+    image: "anim/DarkHexIcon_128.png" COMP;
+    image: "anim/DarkHexIcon_129.png" COMP;
+    image: "anim/DarkHexIcon_130.png" COMP;
+    image: "anim/DarkHexIcon_131.png" COMP;
+    image: "anim/DarkHexIcon_132.png" COMP;
+    image: "anim/DarkHexIcon_133.png" COMP;
+    image: "anim/DarkHexIcon_134.png" COMP;
+    image: "anim/DarkHexIcon_135.png" COMP;
+    image: "anim/DarkHexIcon_136.png" COMP;
+    image: "anim/DarkHexIcon_137.png" COMP;
+    image: "anim/DarkHexIcon_138.png" COMP;
+    image: "anim/DarkHexIcon_139.png" COMP;
+    image: "anim/DarkHexIcon_140.png" COMP;
+    image: "anim/DarkHexIcon_141.png" COMP;
+    image: "anim/DarkHexIcon_142.png" COMP;
+    image: "anim/DarkHexIcon_143.png" COMP;
+    image: "anim/DarkHexIcon_144.png" COMP;
+    image: "anim/DarkHexIcon_145.png" COMP;
+    image: "anim/DarkHexIcon_146.png" COMP;
+    image: "anim/DarkHexIcon_147.png" COMP;
+    image: "anim/DarkHexIcon_148.png" COMP;
+    image: "anim/DarkHexIcon_149.png" COMP;
+    image: "anim/DarkHexIcon_150.png" COMP;
+    image: "anim/DarkHexIcon_151.png" COMP;
+    image: "anim/DarkHexIcon_152.png" COMP;
+    image: "anim/DarkHexIcon_153.png" COMP;
+    image: "anim/DarkHexIcon_154.png" COMP;
+    image: "anim/DarkHexIcon_155.png" COMP;
+    image: "anim/DarkHexIcon_156.png" COMP;
+    image: "anim/DarkHexIcon_157.png" COMP;
+    image: "anim/DarkHexIcon_158.png" COMP;
+    image: "anim/DarkHexIcon_159.png" COMP;
+    image: "anim/DarkHexIcon_160.png" COMP;
+    image: "anim/DarkHexIcon_161.png" COMP;
+    image: "anim/DarkHexIcon_162.png" COMP;
+    image: "anim/DarkHexIcon_163.png" COMP;
+    image: "anim/DarkHexIcon_164.png" COMP;
+    image: "anim/DarkHexIcon_165.png" COMP;
+    image: "anim/DarkHexIcon_166.png" COMP;
+    image: "anim/DarkHexIcon_167.png" COMP;
+    image: "anim/DarkHexIcon_168.png" COMP;
+    image: "anim/DarkHexIcon_169.png" COMP;
+    image: "anim/DarkHexIcon_170.png" COMP;
+    image: "anim/DarkHexIcon_171.png" COMP;
+    image: "anim/DarkHexIcon_172.png" COMP;
+    image: "anim/DarkHexIcon_173.png" COMP;
+    image: "anim/DarkHexIcon_174.png" COMP;
+    image: "anim/DarkHexIcon_175.png" COMP;
+    image: "anim/DarkHexIcon_176.png" COMP;
+    image: "anim/DarkHexIcon_177.png" COMP;
+    image: "anim/DarkHexIcon_178.png" COMP;
+    image: "anim/DarkHexIcon_179.png" COMP;
+    image: "anim/DarkHexIcon_180.png" COMP;
+    image: "anim/DarkHexIcon_181.png" COMP;
+    image: "anim/DarkHexIcon_182.png" COMP;
+    image: "anim/DarkHexIcon_183.png" COMP;
+    image: "anim/DarkHexIcon_184.png" COMP;
+    image: "anim/DarkHexIcon_185.png" COMP;
+    image: "anim/DarkHexIcon_186.png" COMP;
+    image: "anim/DarkHexIcon_187.png" COMP;
+    image: "anim/DarkHexIcon_188.png" COMP;
+    image: "anim/DarkHexIcon_189.png" COMP;
+    image: "anim/DarkHexIcon_190.png" COMP;
+    image: "anim/DarkHexIcon_191.png" COMP;
+    image: "anim/DarkHexIcon_192.png" COMP;
+    image: "anim/DarkHexIcon_193.png" COMP;
+    image: "anim/DarkHexIcon_194.png" COMP;
+    image: "anim/DarkHexIcon_195.png" COMP;
+    image: "anim/DarkHexIcon_196.png" COMP;
+    image: "anim/DarkHexIcon_197.png" COMP;
+    image: "anim/DarkHexIcon_198.png" COMP;
+    image: "anim/DarkHexIcon_199.png" COMP;
+
+}
+
+collections {
+    group {
+        images {
+            image: "ENVENTOR_EMBEDDED_IMAGE.png" COMP;
+        }
+        name, "e/desktop/background";
+        min: 640 480;
+        max: 3840 2160;
+
+        parts {
+            // Background
+            part {
+                name: "background";
+                mouse_events: 0;
+
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/LightGradientBGColor.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }
+            }
+            // Moire
+            part {
+                name: "Light Moire";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/LightMoire.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Hex Grid
+            part {
+                name: "Hex Grid";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/HexGrid.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Sparrow Icon Glow
+            part {
+                name: "Sparrow Glow";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/DarkIconGlow.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Sparrow Icon
+            part {
+                name: "Sparrow";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/DarkIcon.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Hex Icon Glow Animation
+            part {
+                name: "Hex Icon Glow Animation";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    aspect: 1.0 1.0;
+                    min: 300 300;
+                    max: 300 300;
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "anim/DarkHexIconGlow_0.png";
+                        tween,  "anim/DarkHexIconGlow_1.png";
+                        tween,  "anim/DarkHexIconGlow_2.png";
+                        tween,  "anim/DarkHexIconGlow_3.png";
+                        tween,  "anim/DarkHexIconGlow_4.png";
+                        tween,  "anim/DarkHexIconGlow_5.png";
+                        tween,  "anim/DarkHexIconGlow_6.png";
+                        tween,  "anim/DarkHexIconGlow_7.png";
+                        tween,  "anim/DarkHexIconGlow_8.png";
+                        tween,  "anim/DarkHexIconGlow_9.png";
+                        tween,  "anim/DarkHexIconGlow_10.png";
+                        tween,  "anim/DarkHexIconGlow_11.png";
+                        tween,  "anim/DarkHexIconGlow_12.png";
+                        tween,  "anim/DarkHexIconGlow_13.png";
+                        tween,  "anim/DarkHexIconGlow_14.png";
+                        tween,  "anim/DarkHexIconGlow_15.png";
+                        tween,  "anim/DarkHexIconGlow_16.png";
+                        tween,  "anim/DarkHexIconGlow_17.png";
+                        tween,  "anim/DarkHexIconGlow_18.png";
+                        tween,  "anim/DarkHexIconGlow_19.png";
+                        tween,  "anim/DarkHexIconGlow_20.png";
+                        tween,  "anim/DarkHexIconGlow_21.png";
+                        tween,  "anim/DarkHexIconGlow_22.png";
+                        tween,  "anim/DarkHexIconGlow_23.png";
+                        tween,  "anim/DarkHexIconGlow_24.png";
+                        tween,  "anim/DarkHexIconGlow_25.png";
+                        tween,  "anim/DarkHexIconGlow_26.png";
+                        tween,  "anim/DarkHexIconGlow_27.png";
+                        tween,  "anim/DarkHexIconGlow_28.png";
+                        tween,  "anim/DarkHexIconGlow_29.png";
+                        tween,  "anim/DarkHexIconGlow_30.png";
+                        tween,  "anim/DarkHexIconGlow_31.png";
+                        tween,  "anim/DarkHexIconGlow_32.png";
+                        tween,  "anim/DarkHexIconGlow_33.png";
+                        tween,  "anim/DarkHexIconGlow_34.png";
+                        tween,  "anim/DarkHexIconGlow_35.png";
+                        tween,  "anim/DarkHexIconGlow_36.png";
+                        tween,  "anim/DarkHexIconGlow_37.png";
+                        tween,  "anim/DarkHexIconGlow_38.png";
+                        tween,  "anim/DarkHexIconGlow_39.png";
+                        tween,  "anim/DarkHexIconGlow_40.png";
+                        tween,  "anim/DarkHexIconGlow_41.png";
+                        tween,  "anim/DarkHexIconGlow_42.png";
+                        tween,  "anim/DarkHexIconGlow_43.png";
+                        tween,  "anim/DarkHexIconGlow_44.png";
+                        tween,  "anim/DarkHexIconGlow_45.png";
+                        tween,  "anim/DarkHexIconGlow_46.png";
+                        tween,  "anim/DarkHexIconGlow_47.png";
+                        tween,  "anim/DarkHexIconGlow_48.png";
+                        tween,  "anim/DarkHexIconGlow_49.png";
+                        tween,  "anim/DarkHexIconGlow_50.png";
+                        tween,  "anim/DarkHexIconGlow_51.png";
+                        tween,  "anim/DarkHexIconGlow_52.png";
+                        tween,  "anim/DarkHexIconGlow_53.png";
+                        tween,  "anim/DarkHexIconGlow_54.png";
+                        tween,  "anim/DarkHexIconGlow_55.png";
+                        tween,  "anim/DarkHexIconGlow_56.png";
+                        tween,  "anim/DarkHexIconGlow_57.png";
+                        tween,  "anim/DarkHexIconGlow_58.png";
+                        tween,  "anim/DarkHexIconGlow_59.png";
+                        tween,  "anim/DarkHexIconGlow_60.png";
+                        tween,  "anim/DarkHexIconGlow_61.png";
+                        tween,  "anim/DarkHexIconGlow_62.png";
+                        tween,  "anim/DarkHexIconGlow_63.png";
+                        tween,  "anim/DarkHexIconGlow_64.png";
+                        tween,  "anim/DarkHexIconGlow_65.png";
+                        tween,  "anim/DarkHexIconGlow_66.png";
+                        tween,  "anim/DarkHexIconGlow_67.png";
+                        tween,  "anim/DarkHexIconGlow_68.png";
+                        tween,  "anim/DarkHexIconGlow_69.png";
+                        tween,  "anim/DarkHexIconGlow_70.png";
+                        tween,  "anim/DarkHexIconGlow_71.png";
+                        tween,  "anim/DarkHexIconGlow_72.png";
+                        tween,  "anim/DarkHexIconGlow_73.png";
+                        tween,  "anim/DarkHexIconGlow_74.png";
+                        tween,  "anim/DarkHexIconGlow_75.png";
+                        tween,  "anim/DarkHexIconGlow_76.png";
+                        tween,  "anim/DarkHexIconGlow_77.png";
+                        tween,  "anim/DarkHexIconGlow_78.png";
+                        tween,  "anim/DarkHexIconGlow_79.png";
+                        tween,  "anim/DarkHexIconGlow_80.png";
+                        tween,  "anim/DarkHexIconGlow_81.png";
+                        tween,  "anim/DarkHexIconGlow_82.png";
+                        tween,  "anim/DarkHexIconGlow_83.png";
+                        tween,  "anim/DarkHexIconGlow_84.png";
+                        tween,  "anim/DarkHexIconGlow_85.png";
+                        tween,  "anim/DarkHexIconGlow_86.png";
+                        tween,  "anim/DarkHexIconGlow_87.png";
+                        tween,  "anim/DarkHexIconGlow_88.png";
+                        tween,  "anim/DarkHexIconGlow_89.png";
+                        tween,  "anim/DarkHexIconGlow_90.png";
+                        tween,  "anim/DarkHexIconGlow_91.png";
+                        tween,  "anim/DarkHexIconGlow_92.png";
+                        tween,  "anim/DarkHexIconGlow_93.png";
+                        tween,  "anim/DarkHexIconGlow_94.png";
+                        tween,  "anim/DarkHexIconGlow_95.png";
+                        tween,  "anim/DarkHexIconGlow_96.png";
+                        tween,  "anim/DarkHexIconGlow_97.png";
+                        tween,  "anim/DarkHexIconGlow_98.png";
+                        tween,  "anim/DarkHexIconGlow_99.png";
+                        tween,  "anim/DarkHexIconGlow_100.png";
+                        tween,  "anim/DarkHexIconGlow_101.png";
+                        tween,  "anim/DarkHexIconGlow_102.png";
+                        tween,  "anim/DarkHexIconGlow_103.png";
+                        tween,  "anim/DarkHexIconGlow_104.png";
+                        tween,  "anim/DarkHexIconGlow_105.png";
+                        tween,  "anim/DarkHexIconGlow_106.png";
+                        tween,  "anim/DarkHexIconGlow_107.png";
+                        tween,  "anim/DarkHexIconGlow_108.png";
+                        tween,  "anim/DarkHexIconGlow_109.png";
+                        tween,  "anim/DarkHexIconGlow_110.png";
+                        tween,  "anim/DarkHexIconGlow_111.png";
+                        tween,  "anim/DarkHexIconGlow_112.png";
+                        tween,  "anim/DarkHexIconGlow_113.png";
+                        tween,  "anim/DarkHexIconGlow_114.png";
+                        tween,  "anim/DarkHexIconGlow_115.png";
+                        tween,  "anim/DarkHexIconGlow_116.png";
+                        tween,  "anim/DarkHexIconGlow_117.png";
+                        tween,  "anim/DarkHexIconGlow_118.png";
+                        tween,  "anim/DarkHexIconGlow_119.png";
+                        tween,  "anim/DarkHexIconGlow_120.png";
+                        tween,  "anim/DarkHexIconGlow_121.png";
+                        tween,  "anim/DarkHexIconGlow_122.png";
+                        tween,  "anim/DarkHexIconGlow_123.png";
+                        tween,  "anim/DarkHexIconGlow_124.png";
+                        tween,  "anim/DarkHexIconGlow_125.png";
+                        tween,  "anim/DarkHexIconGlow_126.png";
+                        tween,  "anim/DarkHexIconGlow_127.png";
+                        tween,  "anim/DarkHexIconGlow_128.png";
+                        tween,  "anim/DarkHexIconGlow_129.png";
+                        tween,  "anim/DarkHexIconGlow_130.png";
+                        tween,  "anim/DarkHexIconGlow_131.png";
+                        tween,  "anim/DarkHexIconGlow_132.png";
+                        tween,  "anim/DarkHexIconGlow_133.png";
+                        tween,  "anim/DarkHexIconGlow_134.png";
+                        tween,  "anim/DarkHexIconGlow_135.png";
+                        tween,  "anim/DarkHexIconGlow_136.png";
+                        tween,  "anim/DarkHexIconGlow_137.png";
+                        tween,  "anim/DarkHexIconGlow_138.png";
+                        tween,  "anim/DarkHexIconGlow_139.png";
+                        tween,  "anim/DarkHexIconGlow_140.png";
+                        tween,  "anim/DarkHexIconGlow_141.png";
+                        tween,  "anim/DarkHexIconGlow_142.png";
+                        tween,  "anim/DarkHexIconGlow_143.png";
+                        tween,  "anim/DarkHexIconGlow_144.png";
+                        tween,  "anim/DarkHexIconGlow_145.png";
+                        tween,  "anim/DarkHexIconGlow_146.png";
+                        tween,  "anim/DarkHexIconGlow_147.png";
+                        tween,  "anim/DarkHexIconGlow_148.png";
+                        tween,  "anim/DarkHexIconGlow_149.png";
+                        tween,  "anim/DarkHexIconGlow_150.png";
+                        tween,  "anim/DarkHexIconGlow_151.png";
+                        tween,  "anim/DarkHexIconGlow_152.png";
+                        tween,  "anim/DarkHexIconGlow_153.png";
+                        tween,  "anim/DarkHexIconGlow_154.png";
+                        tween,  "anim/DarkHexIconGlow_155.png";
+                        tween,  "anim/DarkHexIconGlow_156.png";
+                        tween,  "anim/DarkHexIconGlow_157.png";
+                        tween,  "anim/DarkHexIconGlow_158.png";
+                        tween,  "anim/DarkHexIconGlow_159.png";
+                        tween,  "anim/DarkHexIconGlow_160.png";
+                        tween,  "anim/DarkHexIconGlow_161.png";
+                        tween,  "anim/DarkHexIconGlow_162.png";
+                        tween,  "anim/DarkHexIconGlow_163.png";
+                        tween,  "anim/DarkHexIconGlow_164.png";
+                        tween,  "anim/DarkHexIconGlow_165.png";
+                        tween,  "anim/DarkHexIconGlow_166.png";
+                        tween,  "anim/DarkHexIconGlow_167.png";
+                        tween,  "anim/DarkHexIconGlow_168.png";
+                        tween,  "anim/DarkHexIconGlow_169.png";
+                        tween,  "anim/DarkHexIconGlow_170.png";
+                        tween,  "anim/DarkHexIconGlow_171.png";
+                        tween,  "anim/DarkHexIconGlow_172.png";
+                        tween,  "anim/DarkHexIconGlow_173.png";
+                        tween,  "anim/DarkHexIconGlow_174.png";
+                        tween,  "anim/DarkHexIconGlow_175.png";
+                        tween,  "anim/DarkHexIconGlow_176.png";
+                        tween,  "anim/DarkHexIconGlow_177.png";
+                        tween,  "anim/DarkHexIconGlow_178.png";
+                        tween,  "anim/DarkHexIconGlow_179.png";
+                        tween,  "anim/DarkHexIconGlow_180.png";
+                        tween,  "anim/DarkHexIconGlow_181.png";
+                        tween,  "anim/DarkHexIconGlow_182.png";
+                        tween,  "anim/DarkHexIconGlow_183.png";
+                        tween,  "anim/DarkHexIconGlow_184.png";
+                        tween,  "anim/DarkHexIconGlow_185.png";
+                        tween,  "anim/DarkHexIconGlow_186.png";
+                        tween,  "anim/DarkHexIconGlow_187.png";
+                        tween,  "anim/DarkHexIconGlow_188.png";
+                        tween,  "anim/DarkHexIconGlow_189.png";
+                        tween,  "anim/DarkHexIconGlow_190.png";
+                        tween,  "anim/DarkHexIconGlow_191.png";
+                        tween,  "anim/DarkHexIconGlow_192.png";
+                        tween,  "anim/DarkHexIconGlow_193.png";
+                        tween,  "anim/DarkHexIconGlow_194.png";
+                        tween,  "anim/DarkHexIconGlow_195.png";
+                        tween,  "anim/DarkHexIconGlow_196.png";
+                        tween,  "anim/DarkHexIconGlow_197.png";
+                        tween,  "anim/DarkHexIconGlow_198.png";
+                        tween,  "anim/DarkHexIconGlow_199.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                    programs {
+                        program {
+                            name: "hex_icon_glow_rotator";
+                            signal: "show";
+                            source: "";
+                            action: STATE_SET "default" 0.0;
+                            transition: LINEAR 60.0;
+                            target: "Hex Icon Glow Animation";
+                            after: "hex_icon_glow_rotator";
+                        }
+                    }
+                }        
+            }
+            // Hex Icon Animation
+            part {
+                name: "Hex Icon Animation";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    aspect: 1.0 1.0;
+                    min: 300 300;
+                    max: 300 300;
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "anim/DarkHexIcon_0.png";
+                        tween,  "anim/DarkHexIcon_1.png";
+                        tween,  "anim/DarkHexIcon_2.png";
+                        tween,  "anim/DarkHexIcon_3.png";
+                        tween,  "anim/DarkHexIcon_4.png";
+                        tween,  "anim/DarkHexIcon_5.png";
+                        tween,  "anim/DarkHexIcon_6.png";
+                        tween,  "anim/DarkHexIcon_7.png";
+                        tween,  "anim/DarkHexIcon_8.png";
+                        tween,  "anim/DarkHexIcon_9.png";
+                        tween,  "anim/DarkHexIcon_10.png";
+                        tween,  "anim/DarkHexIcon_11.png";
+                        tween,  "anim/DarkHexIcon_12.png";
+                        tween,  "anim/DarkHexIcon_13.png";
+                        tween,  "anim/DarkHexIcon_14.png";
+                        tween,  "anim/DarkHexIcon_15.png";
+                        tween,  "anim/DarkHexIcon_16.png";
+                        tween,  "anim/DarkHexIcon_17.png";
+                        tween,  "anim/DarkHexIcon_18.png";
+                        tween,  "anim/DarkHexIcon_19.png";
+                        tween,  "anim/DarkHexIcon_20.png";
+                        tween,  "anim/DarkHexIcon_21.png";
+                        tween,  "anim/DarkHexIcon_22.png";
+                        tween,  "anim/DarkHexIcon_23.png";
+                        tween,  "anim/DarkHexIcon_24.png";
+                        tween,  "anim/DarkHexIcon_25.png";
+                        tween,  "anim/DarkHexIcon_26.png";
+                        tween,  "anim/DarkHexIcon_27.png";
+                        tween,  "anim/DarkHexIcon_28.png";
+                        tween,  "anim/DarkHexIcon_29.png";
+                        tween,  "anim/DarkHexIcon_30.png";
+                        tween,  "anim/DarkHexIcon_31.png";
+                        tween,  "anim/DarkHexIcon_32.png";
+                        tween,  "anim/DarkHexIcon_33.png";
+                        tween,  "anim/DarkHexIcon_34.png";
+                        tween,  "anim/DarkHexIcon_35.png";
+                        tween,  "anim/DarkHexIcon_36.png";
+                        tween,  "anim/DarkHexIcon_37.png";
+                        tween,  "anim/DarkHexIcon_38.png";
+                        tween,  "anim/DarkHexIcon_39.png";
+                        tween,  "anim/DarkHexIcon_40.png";
+                        tween,  "anim/DarkHexIcon_41.png";
+                        tween,  "anim/DarkHexIcon_42.png";
+                        tween,  "anim/DarkHexIcon_43.png";
+                        tween,  "anim/DarkHexIcon_44.png";
+                        tween,  "anim/DarkHexIcon_45.png";
+                        tween,  "anim/DarkHexIcon_46.png";
+                        tween,  "anim/DarkHexIcon_47.png";
+                        tween,  "anim/DarkHexIcon_48.png";
+                        tween,  "anim/DarkHexIcon_49.png";
+                        tween,  "anim/DarkHexIcon_50.png";
+                        tween,  "anim/DarkHexIcon_51.png";
+                        tween,  "anim/DarkHexIcon_52.png";
+                        tween,  "anim/DarkHexIcon_53.png";
+                        tween,  "anim/DarkHexIcon_54.png";
+                        tween,  "anim/DarkHexIcon_55.png";
+                        tween,  "anim/DarkHexIcon_56.png";
+                        tween,  "anim/DarkHexIcon_57.png";
+                        tween,  "anim/DarkHexIcon_58.png";
+                        tween,  "anim/DarkHexIcon_59.png";
+                        tween,  "anim/DarkHexIcon_60.png";
+                        tween,  "anim/DarkHexIcon_61.png";
+                        tween,  "anim/DarkHexIcon_62.png";
+                        tween,  "anim/DarkHexIcon_63.png";
+                        tween,  "anim/DarkHexIcon_64.png";
+                        tween,  "anim/DarkHexIcon_65.png";
+                        tween,  "anim/DarkHexIcon_66.png";
+                        tween,  "anim/DarkHexIcon_67.png";
+                        tween,  "anim/DarkHexIcon_68.png";
+                        tween,  "anim/DarkHexIcon_69.png";
+                        tween,  "anim/DarkHexIcon_70.png";
+                        tween,  "anim/DarkHexIcon_71.png";
+                        tween,  "anim/DarkHexIcon_72.png";
+                        tween,  "anim/DarkHexIcon_73.png";
+                        tween,  "anim/DarkHexIcon_74.png";
+                        tween,  "anim/DarkHexIcon_75.png";
+                        tween,  "anim/DarkHexIcon_76.png";
+                        tween,  "anim/DarkHexIcon_77.png";
+                        tween,  "anim/DarkHexIcon_78.png";
+                        tween,  "anim/DarkHexIcon_79.png";
+                        tween,  "anim/DarkHexIcon_80.png";
+                        tween,  "anim/DarkHexIcon_81.png";
+                        tween,  "anim/DarkHexIcon_82.png";
+                        tween,  "anim/DarkHexIcon_83.png";
+                        tween,  "anim/DarkHexIcon_84.png";
+                        tween,  "anim/DarkHexIcon_85.png";
+                        tween,  "anim/DarkHexIcon_86.png";
+                        tween,  "anim/DarkHexIcon_87.png";
+                        tween,  "anim/DarkHexIcon_88.png";
+                        tween,  "anim/DarkHexIcon_89.png";
+                        tween,  "anim/DarkHexIcon_90.png";
+                        tween,  "anim/DarkHexIcon_91.png";
+                        tween,  "anim/DarkHexIcon_92.png";
+                        tween,  "anim/DarkHexIcon_93.png";
+                        tween,  "anim/DarkHexIcon_94.png";
+                        tween,  "anim/DarkHexIcon_95.png";
+                        tween,  "anim/DarkHexIcon_96.png";
+                        tween,  "anim/DarkHexIcon_97.png";
+                        tween,  "anim/DarkHexIcon_98.png";
+                        tween,  "anim/DarkHexIcon_99.png";
+                        tween,  "anim/DarkHexIcon_100.png";
+                        tween,  "anim/DarkHexIcon_101.png";
+                        tween,  "anim/DarkHexIcon_102.png";
+                        tween,  "anim/DarkHexIcon_103.png";
+                        tween,  "anim/DarkHexIcon_104.png";
+                        tween,  "anim/DarkHexIcon_105.png";
+                        tween,  "anim/DarkHexIcon_106.png";
+                        tween,  "anim/DarkHexIcon_107.png";
+                        tween,  "anim/DarkHexIcon_108.png";
+                        tween,  "anim/DarkHexIcon_109.png";
+                        tween,  "anim/DarkHexIcon_110.png";
+                        tween,  "anim/DarkHexIcon_111.png";
+                        tween,  "anim/DarkHexIcon_112.png";
+                        tween,  "anim/DarkHexIcon_113.png";
+                        tween,  "anim/DarkHexIcon_114.png";
+                        tween,  "anim/DarkHexIcon_115.png";
+                        tween,  "anim/DarkHexIcon_116.png";
+                        tween,  "anim/DarkHexIcon_117.png";
+                        tween,  "anim/DarkHexIcon_118.png";
+                        tween,  "anim/DarkHexIcon_119.png";
+                        tween,  "anim/DarkHexIcon_120.png";
+                        tween,  "anim/DarkHexIcon_121.png";
+                        tween,  "anim/DarkHexIcon_122.png";
+                        tween,  "anim/DarkHexIcon_123.png";
+                        tween,  "anim/DarkHexIcon_124.png";
+                        tween,  "anim/DarkHexIcon_125.png";
+                        tween,  "anim/DarkHexIcon_126.png";
+                        tween,  "anim/DarkHexIcon_127.png";
+                        tween,  "anim/DarkHexIcon_128.png";
+                        tween,  "anim/DarkHexIcon_129.png";
+                        tween,  "anim/DarkHexIcon_130.png";
+                        tween,  "anim/DarkHexIcon_131.png";
+                        tween,  "anim/DarkHexIcon_132.png";
+                        tween,  "anim/DarkHexIcon_133.png";
+                        tween,  "anim/DarkHexIcon_134.png";
+                        tween,  "anim/DarkHexIcon_135.png";
+                        tween,  "anim/DarkHexIcon_136.png";
+                        tween,  "anim/DarkHexIcon_137.png";
+                        tween,  "anim/DarkHexIcon_138.png";
+                        tween,  "anim/DarkHexIcon_139.png";
+                        tween,  "anim/DarkHexIcon_140.png";
+                        tween,  "anim/DarkHexIcon_141.png";
+                        tween,  "anim/DarkHexIcon_142.png";
+                        tween,  "anim/DarkHexIcon_143.png";
+                        tween,  "anim/DarkHexIcon_144.png";
+                        tween,  "anim/DarkHexIcon_145.png";
+                        tween,  "anim/DarkHexIcon_146.png";
+                        tween,  "anim/DarkHexIcon_147.png";
+                        tween,  "anim/DarkHexIcon_148.png";
+                        tween,  "anim/DarkHexIcon_149.png";
+                        tween,  "anim/DarkHexIcon_150.png";
+                        tween,  "anim/DarkHexIcon_151.png";
+                        tween,  "anim/DarkHexIcon_152.png";
+                        tween,  "anim/DarkHexIcon_153.png";
+                        tween,  "anim/DarkHexIcon_154.png";
+                        tween,  "anim/DarkHexIcon_155.png";
+                        tween,  "anim/DarkHexIcon_156.png";
+                        tween,  "anim/DarkHexIcon_157.png";
+                        tween,  "anim/DarkHexIcon_158.png";
+                        tween,  "anim/DarkHexIcon_159.png";
+                        tween,  "anim/DarkHexIcon_160.png";
+                        tween,  "anim/DarkHexIcon_161.png";
+                        tween,  "anim/DarkHexIcon_162.png";
+                        tween,  "anim/DarkHexIcon_163.png";
+                        tween,  "anim/DarkHexIcon_164.png";
+                        tween,  "anim/DarkHexIcon_165.png";
+                        tween,  "anim/DarkHexIcon_166.png";
+                        tween,  "anim/DarkHexIcon_167.png";
+                        tween,  "anim/DarkHexIcon_168.png";
+                        tween,  "anim/DarkHexIcon_169.png";
+                        tween,  "anim/DarkHexIcon_170.png";
+                        tween,  "anim/DarkHexIcon_171.png";
+                        tween,  "anim/DarkHexIcon_172.png";
+                        tween,  "anim/DarkHexIcon_173.png";
+                        tween,  "anim/DarkHexIcon_174.png";
+                        tween,  "anim/DarkHexIcon_175.png";
+                        tween,  "anim/DarkHexIcon_176.png";
+                        tween,  "anim/DarkHexIcon_177.png";
+                        tween,  "anim/DarkHexIcon_178.png";
+                        tween,  "anim/DarkHexIcon_179.png";
+                        tween,  "anim/DarkHexIcon_180.png";
+                        tween,  "anim/DarkHexIcon_181.png";
+                        tween,  "anim/DarkHexIcon_182.png";
+                        tween,  "anim/DarkHexIcon_183.png";
+                        tween,  "anim/DarkHexIcon_184.png";
+                        tween,  "anim/DarkHexIcon_185.png";
+                        tween,  "anim/DarkHexIcon_186.png";
+                        tween,  "anim/DarkHexIcon_187.png";
+                        tween,  "anim/DarkHexIcon_188.png";
+                        tween,  "anim/DarkHexIcon_189.png";
+                        tween,  "anim/DarkHexIcon_190.png";
+                        tween,  "anim/DarkHexIcon_191.png";
+                        tween,  "anim/DarkHexIcon_192.png";
+                        tween,  "anim/DarkHexIcon_193.png";
+                        tween,  "anim/DarkHexIcon_194.png";
+                        tween,  "anim/DarkHexIcon_195.png";
+                        tween,  "anim/DarkHexIcon_196.png";
+                        tween,  "anim/DarkHexIcon_197.png";
+                        tween,  "anim/DarkHexIcon_198.png";
+                        tween,  "anim/DarkHexIcon_199.png"                        ;
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                    programs {
+                        program {
+                            name: "hex_icon_rotator";
+                            signal: "show";
+                            source: "";
+                            action: STATE_SET "default" 0.0;
+                            transition: LINEAR 60.0;
+                            target: "Hex Icon Animation";
+                            after: "hex_icon_rotator";
+                        }
+                    }
+                }
+            }        
+        }
+    }
+}

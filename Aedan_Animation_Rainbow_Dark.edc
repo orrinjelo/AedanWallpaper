@@ -1,0 +1,897 @@
+images {
+    // image: "Components/ColorHexIconGlow.png" COMP;
+    // image: "Components/ColorIconGlow.png" COMP;
+    // image: "Components/ColorLDSGIconGlow.png" COMP;
+    image: "Components/DarkBGColor.png" COMP;
+    // image: "Components/DarkHexIcon.png" COMP;
+    // image: "Components/DarkHexIconGlow.png" COMP;
+    image: "Components/DarkIcon.png" COMP;
+    image: "Components/DarkIconGlow.png" COMP;
+    // image: "Components/DarkLDSGIcon.png" COMP;
+    // image: "Components/DarkLDSGIconGlow.png" COMP;
+    // image: "Components/DarkLDSGMoire.png" COMP;
+    image: "Components/DarkMoire.png" COMP;
+    // image: "Components/Diffraction1.png" COMP;
+    // image: "Components/Diffraction2.png" COMP;
+    image: "Components/Flair1.png" COMP;
+    image: "Components/Flair2.png" COMP;
+    image: "Components/Flair3.png" COMP;
+    // image: "Components/HexGrid.png" COMP;
+    // image: "Components/LightBGColor.png" COMP;
+    // image: "Components/LightCodeText.png" COMP;
+    // image: "Components/LightGradientBGColor.png" COMP;
+    // image: "Components/LightHexIcon.png" COMP;
+    // image: "Components/LightHexIconGlow.png" COMP;
+    // image: "Components/LightIcon.png" COMP;
+    // image: "Components/LightIconGlow.png" COMP;
+    // image: "Components/LightMoire.png" COMP;
+    image: "Components/SquareGrid.png" COMP;
+
+    image: "anim/ColorIconGlow_0.png" COMP;
+    image: "anim/ColorIconGlow_1.png" COMP;
+    image: "anim/ColorIconGlow_2.png" COMP;
+    image: "anim/ColorIconGlow_3.png" COMP;
+    image: "anim/ColorIconGlow_4.png" COMP;
+    image: "anim/ColorIconGlow_5.png" COMP;
+    image: "anim/ColorIconGlow_6.png" COMP;
+    image: "anim/ColorIconGlow_7.png" COMP;
+    image: "anim/ColorIconGlow_8.png" COMP;
+    image: "anim/ColorIconGlow_9.png" COMP;
+    image: "anim/ColorIconGlow_10.png" COMP;
+    image: "anim/ColorIconGlow_11.png" COMP;
+    image: "anim/ColorIconGlow_12.png" COMP;
+    image: "anim/ColorIconGlow_13.png" COMP;
+    image: "anim/ColorIconGlow_14.png" COMP;
+    image: "anim/ColorIconGlow_15.png" COMP;
+    image: "anim/ColorIconGlow_16.png" COMP;
+    image: "anim/ColorIconGlow_17.png" COMP;
+    image: "anim/ColorIconGlow_18.png" COMP;
+    image: "anim/ColorIconGlow_19.png" COMP;
+    image: "anim/ColorIconGlow_20.png" COMP;
+    image: "anim/ColorIconGlow_21.png" COMP;
+    image: "anim/ColorIconGlow_22.png" COMP;
+    image: "anim/ColorIconGlow_23.png" COMP;
+    image: "anim/ColorIconGlow_24.png" COMP;
+    image: "anim/ColorIconGlow_25.png" COMP;
+    image: "anim/ColorIconGlow_26.png" COMP;
+    image: "anim/ColorIconGlow_27.png" COMP;
+    image: "anim/ColorIconGlow_28.png" COMP;
+    image: "anim/ColorIconGlow_29.png" COMP;
+    image: "anim/ColorIconGlow_30.png" COMP;
+    image: "anim/ColorIconGlow_31.png" COMP;
+    image: "anim/ColorIconGlow_32.png" COMP;
+    image: "anim/ColorIconGlow_33.png" COMP;
+    image: "anim/ColorIconGlow_34.png" COMP;
+    image: "anim/ColorIconGlow_35.png" COMP;
+    image: "anim/ColorIconGlow_36.png" COMP;
+    image: "anim/ColorIconGlow_37.png" COMP;
+    image: "anim/ColorIconGlow_38.png" COMP;
+    image: "anim/ColorIconGlow_39.png" COMP;
+    image: "anim/ColorIconGlow_40.png" COMP;
+    image: "anim/ColorIconGlow_41.png" COMP;
+    image: "anim/ColorIconGlow_42.png" COMP;
+    image: "anim/ColorIconGlow_43.png" COMP;
+    image: "anim/ColorIconGlow_44.png" COMP;
+    image: "anim/ColorIconGlow_45.png" COMP;
+    image: "anim/ColorIconGlow_46.png" COMP;
+    image: "anim/ColorIconGlow_47.png" COMP;
+    image: "anim/ColorIconGlow_48.png" COMP;
+    image: "anim/ColorIconGlow_49.png" COMP;
+    image: "anim/ColorIconGlow_50.png" COMP;
+    image: "anim/ColorIconGlow_51.png" COMP;
+    image: "anim/ColorIconGlow_52.png" COMP;
+    image: "anim/ColorIconGlow_53.png" COMP;
+    image: "anim/ColorIconGlow_54.png" COMP;
+    image: "anim/ColorIconGlow_55.png" COMP;
+    image: "anim/ColorIconGlow_56.png" COMP;
+    image: "anim/ColorIconGlow_57.png" COMP;
+    image: "anim/ColorIconGlow_58.png" COMP;
+    image: "anim/ColorIconGlow_59.png" COMP;
+    image: "anim/ColorIconGlow_60.png" COMP;
+    image: "anim/ColorIconGlow_61.png" COMP;
+    image: "anim/ColorIconGlow_62.png" COMP;
+    image: "anim/ColorIconGlow_63.png" COMP;
+    image: "anim/ColorIconGlow_64.png" COMP;
+    image: "anim/ColorIconGlow_65.png" COMP;
+    image: "anim/ColorIconGlow_66.png" COMP;
+    image: "anim/ColorIconGlow_67.png" COMP;
+    image: "anim/ColorIconGlow_68.png" COMP;
+    image: "anim/ColorIconGlow_69.png" COMP;
+    image: "anim/ColorIconGlow_70.png" COMP;
+    image: "anim/ColorIconGlow_71.png" COMP;
+    image: "anim/ColorIconGlow_72.png" COMP;
+    image: "anim/ColorIconGlow_73.png" COMP;
+    image: "anim/ColorIconGlow_74.png" COMP;
+    image: "anim/ColorIconGlow_75.png" COMP;
+    image: "anim/ColorIconGlow_76.png" COMP;
+    image: "anim/ColorIconGlow_77.png" COMP;
+    image: "anim/ColorIconGlow_78.png" COMP;
+    image: "anim/ColorIconGlow_79.png" COMP;
+    image: "anim/ColorIconGlow_80.png" COMP;
+    image: "anim/ColorIconGlow_81.png" COMP;
+    image: "anim/ColorIconGlow_82.png" COMP;
+    image: "anim/ColorIconGlow_83.png" COMP;
+    image: "anim/ColorIconGlow_84.png" COMP;
+    image: "anim/ColorIconGlow_85.png" COMP;
+    image: "anim/ColorIconGlow_86.png" COMP;
+    image: "anim/ColorIconGlow_87.png" COMP;
+    image: "anim/ColorIconGlow_88.png" COMP;
+    image: "anim/ColorIconGlow_89.png" COMP;
+    image: "anim/ColorIconGlow_90.png" COMP;
+    image: "anim/ColorIconGlow_91.png" COMP;
+    image: "anim/ColorIconGlow_92.png" COMP;
+    image: "anim/ColorIconGlow_93.png" COMP;
+    image: "anim/ColorIconGlow_94.png" COMP;
+    image: "anim/ColorIconGlow_95.png" COMP;
+    image: "anim/ColorIconGlow_96.png" COMP;
+    image: "anim/ColorIconGlow_97.png" COMP;
+    image: "anim/ColorIconGlow_98.png" COMP;
+    image: "anim/ColorIconGlow_99.png" COMP;
+    image: "anim/ColorIconGlow_100.png" COMP;
+    image: "anim/ColorIconGlow_101.png" COMP;
+    image: "anim/ColorIconGlow_102.png" COMP;
+    image: "anim/ColorIconGlow_103.png" COMP;
+    image: "anim/ColorIconGlow_104.png" COMP;
+    image: "anim/ColorIconGlow_105.png" COMP;
+    image: "anim/ColorIconGlow_106.png" COMP;
+    image: "anim/ColorIconGlow_107.png" COMP;
+    image: "anim/ColorIconGlow_108.png" COMP;
+    image: "anim/ColorIconGlow_109.png" COMP;
+    image: "anim/ColorIconGlow_110.png" COMP;
+    image: "anim/ColorIconGlow_111.png" COMP;
+    image: "anim/ColorIconGlow_112.png" COMP;
+    image: "anim/ColorIconGlow_113.png" COMP;
+    image: "anim/ColorIconGlow_114.png" COMP;
+    image: "anim/ColorIconGlow_115.png" COMP;
+    image: "anim/ColorIconGlow_116.png" COMP;
+    image: "anim/ColorIconGlow_117.png" COMP;
+    image: "anim/ColorIconGlow_118.png" COMP;
+    image: "anim/ColorIconGlow_119.png" COMP;
+    image: "anim/ColorIconGlow_120.png" COMP;
+    image: "anim/ColorIconGlow_121.png" COMP;
+    image: "anim/ColorIconGlow_122.png" COMP;
+    image: "anim/ColorIconGlow_123.png" COMP;
+    image: "anim/ColorIconGlow_124.png" COMP;
+    image: "anim/ColorIconGlow_125.png" COMP;
+    image: "anim/ColorIconGlow_126.png" COMP;
+    image: "anim/ColorIconGlow_127.png" COMP;
+    image: "anim/ColorIconGlow_128.png" COMP;
+    image: "anim/ColorIconGlow_129.png" COMP;
+    image: "anim/ColorIconGlow_130.png" COMP;
+    image: "anim/ColorIconGlow_131.png" COMP;
+    image: "anim/ColorIconGlow_132.png" COMP;
+    image: "anim/ColorIconGlow_133.png" COMP;
+    image: "anim/ColorIconGlow_134.png" COMP;
+    image: "anim/ColorIconGlow_135.png" COMP;
+    image: "anim/ColorIconGlow_136.png" COMP;
+    image: "anim/ColorIconGlow_137.png" COMP;
+    image: "anim/ColorIconGlow_138.png" COMP;
+    image: "anim/ColorIconGlow_139.png" COMP;
+    image: "anim/ColorIconGlow_140.png" COMP;
+    image: "anim/ColorIconGlow_141.png" COMP;
+    image: "anim/ColorIconGlow_142.png" COMP;
+    image: "anim/ColorIconGlow_143.png" COMP;
+    image: "anim/ColorIconGlow_144.png" COMP;
+    image: "anim/ColorIconGlow_145.png" COMP;
+    image: "anim/ColorIconGlow_146.png" COMP;
+    image: "anim/ColorIconGlow_147.png" COMP;
+    image: "anim/ColorIconGlow_148.png" COMP;
+    image: "anim/ColorIconGlow_149.png" COMP;
+    image: "anim/ColorIconGlow_150.png" COMP;
+    image: "anim/ColorIconGlow_151.png" COMP;
+    image: "anim/ColorIconGlow_152.png" COMP;
+    image: "anim/ColorIconGlow_153.png" COMP;
+    image: "anim/ColorIconGlow_154.png" COMP;
+    image: "anim/ColorIconGlow_155.png" COMP;
+    image: "anim/ColorIconGlow_156.png" COMP;
+    image: "anim/ColorIconGlow_157.png" COMP;
+    image: "anim/ColorIconGlow_158.png" COMP;
+    image: "anim/ColorIconGlow_159.png" COMP;
+    image: "anim/ColorIconGlow_160.png" COMP;
+    image: "anim/ColorIconGlow_161.png" COMP;
+    image: "anim/ColorIconGlow_162.png" COMP;
+    image: "anim/ColorIconGlow_163.png" COMP;
+    image: "anim/ColorIconGlow_164.png" COMP;
+    image: "anim/ColorIconGlow_165.png" COMP;
+    image: "anim/ColorIconGlow_166.png" COMP;
+    image: "anim/ColorIconGlow_167.png" COMP;
+    image: "anim/ColorIconGlow_168.png" COMP;
+    image: "anim/ColorIconGlow_169.png" COMP;
+    image: "anim/ColorIconGlow_170.png" COMP;
+    image: "anim/ColorIconGlow_171.png" COMP;
+    image: "anim/ColorIconGlow_172.png" COMP;
+    image: "anim/ColorIconGlow_173.png" COMP;
+    image: "anim/ColorIconGlow_174.png" COMP;
+    image: "anim/ColorIconGlow_175.png" COMP;
+    image: "anim/ColorIconGlow_176.png" COMP;
+    image: "anim/ColorIconGlow_177.png" COMP;
+    image: "anim/ColorIconGlow_178.png" COMP;
+    image: "anim/ColorIconGlow_179.png" COMP;
+    image: "anim/ColorIconGlow_180.png" COMP;
+    image: "anim/ColorIconGlow_181.png" COMP;
+    image: "anim/ColorIconGlow_182.png" COMP;
+    image: "anim/ColorIconGlow_183.png" COMP;
+    image: "anim/ColorIconGlow_184.png" COMP;
+    image: "anim/ColorIconGlow_185.png" COMP;
+    image: "anim/ColorIconGlow_186.png" COMP;
+    image: "anim/ColorIconGlow_187.png" COMP;
+    image: "anim/ColorIconGlow_188.png" COMP;
+    image: "anim/ColorIconGlow_189.png" COMP;
+    image: "anim/ColorIconGlow_190.png" COMP;
+    image: "anim/ColorIconGlow_191.png" COMP;
+    image: "anim/ColorIconGlow_192.png" COMP;
+    image: "anim/ColorIconGlow_193.png" COMP;
+    image: "anim/ColorIconGlow_194.png" COMP;
+    image: "anim/ColorIconGlow_195.png" COMP;
+    image: "anim/ColorIconGlow_196.png" COMP;
+    image: "anim/ColorIconGlow_197.png" COMP;
+    image: "anim/ColorIconGlow_198.png" COMP;
+    image: "anim/ColorIconGlow_199.png" COMP;
+    image: "anim/ColorIconGlow_200.png" COMP;
+    image: "anim/ColorIconGlow_201.png" COMP;
+    image: "anim/ColorIconGlow_202.png" COMP;
+    image: "anim/ColorIconGlow_203.png" COMP;
+    image: "anim/ColorIconGlow_204.png" COMP;
+    image: "anim/ColorIconGlow_205.png" COMP;
+    image: "anim/ColorIconGlow_206.png" COMP;
+    image: "anim/ColorIconGlow_207.png" COMP;
+    image: "anim/ColorIconGlow_208.png" COMP;
+    image: "anim/ColorIconGlow_209.png" COMP;
+    image: "anim/ColorIconGlow_210.png" COMP;
+    image: "anim/ColorIconGlow_211.png" COMP;
+    image: "anim/ColorIconGlow_212.png" COMP;
+    image: "anim/ColorIconGlow_213.png" COMP;
+    image: "anim/ColorIconGlow_214.png" COMP;
+    image: "anim/ColorIconGlow_215.png" COMP;
+    image: "anim/ColorIconGlow_216.png" COMP;
+    image: "anim/ColorIconGlow_217.png" COMP;
+    image: "anim/ColorIconGlow_218.png" COMP;
+    image: "anim/ColorIconGlow_219.png" COMP;
+    image: "anim/ColorIconGlow_220.png" COMP;
+    image: "anim/ColorIconGlow_221.png" COMP;
+    image: "anim/ColorIconGlow_222.png" COMP;
+    image: "anim/ColorIconGlow_223.png" COMP;
+    image: "anim/ColorIconGlow_224.png" COMP;
+    image: "anim/ColorIconGlow_225.png" COMP;
+    image: "anim/ColorIconGlow_226.png" COMP;
+    image: "anim/ColorIconGlow_227.png" COMP;
+    image: "anim/ColorIconGlow_228.png" COMP;
+    image: "anim/ColorIconGlow_229.png" COMP;
+    image: "anim/ColorIconGlow_230.png" COMP;
+    image: "anim/ColorIconGlow_231.png" COMP;
+    image: "anim/ColorIconGlow_232.png" COMP;
+    image: "anim/ColorIconGlow_233.png" COMP;
+    image: "anim/ColorIconGlow_234.png" COMP;
+    image: "anim/ColorIconGlow_235.png" COMP;
+    image: "anim/ColorIconGlow_236.png" COMP;
+    image: "anim/ColorIconGlow_237.png" COMP;
+    image: "anim/ColorIconGlow_238.png" COMP;
+    image: "anim/ColorIconGlow_239.png" COMP;
+    image: "anim/ColorIconGlow_240.png" COMP;
+    image: "anim/ColorIconGlow_241.png" COMP;
+    image: "anim/ColorIconGlow_242.png" COMP;
+    image: "anim/ColorIconGlow_243.png" COMP;
+    image: "anim/ColorIconGlow_244.png" COMP;
+    image: "anim/ColorIconGlow_245.png" COMP;
+    image: "anim/ColorIconGlow_246.png" COMP;
+    image: "anim/ColorIconGlow_247.png" COMP;
+    image: "anim/ColorIconGlow_248.png" COMP;
+    image: "anim/ColorIconGlow_249.png" COMP;
+    image: "anim/ColorIconGlow_250.png" COMP;
+    image: "anim/ColorIconGlow_251.png" COMP;
+    image: "anim/ColorIconGlow_252.png" COMP;
+    image: "anim/ColorIconGlow_253.png" COMP;
+    image: "anim/ColorIconGlow_254.png" COMP;
+    image: "anim/ColorIconGlow_255.png" COMP;
+    image: "anim/ColorIconGlow_256.png" COMP;
+    image: "anim/ColorIconGlow_257.png" COMP;
+    image: "anim/ColorIconGlow_258.png" COMP;
+    image: "anim/ColorIconGlow_259.png" COMP;
+    image: "anim/ColorIconGlow_260.png" COMP;
+    image: "anim/ColorIconGlow_261.png" COMP;
+    image: "anim/ColorIconGlow_262.png" COMP;
+    image: "anim/ColorIconGlow_263.png" COMP;
+    image: "anim/ColorIconGlow_264.png" COMP;
+    image: "anim/ColorIconGlow_265.png" COMP;
+    image: "anim/ColorIconGlow_266.png" COMP;
+    image: "anim/ColorIconGlow_267.png" COMP;
+    image: "anim/ColorIconGlow_268.png" COMP;
+    image: "anim/ColorIconGlow_269.png" COMP;
+    image: "anim/ColorIconGlow_270.png" COMP;
+    image: "anim/ColorIconGlow_271.png" COMP;
+    image: "anim/ColorIconGlow_272.png" COMP;
+    image: "anim/ColorIconGlow_273.png" COMP;
+    image: "anim/ColorIconGlow_274.png" COMP;
+    image: "anim/ColorIconGlow_275.png" COMP;
+    image: "anim/ColorIconGlow_276.png" COMP;
+    image: "anim/ColorIconGlow_277.png" COMP;
+    image: "anim/ColorIconGlow_278.png" COMP;
+    image: "anim/ColorIconGlow_279.png" COMP;
+    image: "anim/ColorIconGlow_280.png" COMP;
+    image: "anim/ColorIconGlow_281.png" COMP;
+    image: "anim/ColorIconGlow_282.png" COMP;
+    image: "anim/ColorIconGlow_283.png" COMP;
+    image: "anim/ColorIconGlow_284.png" COMP;
+    image: "anim/ColorIconGlow_285.png" COMP;
+    image: "anim/ColorIconGlow_286.png" COMP;
+    image: "anim/ColorIconGlow_287.png" COMP;
+    image: "anim/ColorIconGlow_288.png" COMP;
+    image: "anim/ColorIconGlow_289.png" COMP;
+    image: "anim/ColorIconGlow_290.png" COMP;
+    image: "anim/ColorIconGlow_291.png" COMP;
+    image: "anim/ColorIconGlow_292.png" COMP;
+    image: "anim/ColorIconGlow_293.png" COMP;
+    image: "anim/ColorIconGlow_294.png" COMP;
+    image: "anim/ColorIconGlow_295.png" COMP;
+    image: "anim/ColorIconGlow_296.png" COMP;
+    image: "anim/ColorIconGlow_297.png" COMP;
+    image: "anim/ColorIconGlow_298.png" COMP;
+    image: "anim/ColorIconGlow_299.png" COMP;
+    image: "anim/ColorIconGlow_300.png" COMP;
+    image: "anim/ColorIconGlow_301.png" COMP;
+    image: "anim/ColorIconGlow_302.png" COMP;
+    image: "anim/ColorIconGlow_303.png" COMP;
+    image: "anim/ColorIconGlow_304.png" COMP;
+    image: "anim/ColorIconGlow_305.png" COMP;
+    image: "anim/ColorIconGlow_306.png" COMP;
+    image: "anim/ColorIconGlow_307.png" COMP;
+    image: "anim/ColorIconGlow_308.png" COMP;
+    image: "anim/ColorIconGlow_309.png" COMP;
+    image: "anim/ColorIconGlow_310.png" COMP;
+    image: "anim/ColorIconGlow_311.png" COMP;
+    image: "anim/ColorIconGlow_312.png" COMP;
+    image: "anim/ColorIconGlow_313.png" COMP;
+    image: "anim/ColorIconGlow_314.png" COMP;
+    image: "anim/ColorIconGlow_315.png" COMP;
+    image: "anim/ColorIconGlow_316.png" COMP;
+    image: "anim/ColorIconGlow_317.png" COMP;
+    image: "anim/ColorIconGlow_318.png" COMP;
+    image: "anim/ColorIconGlow_319.png" COMP;
+    image: "anim/ColorIconGlow_320.png" COMP;
+    image: "anim/ColorIconGlow_321.png" COMP;
+    image: "anim/ColorIconGlow_322.png" COMP;
+    image: "anim/ColorIconGlow_323.png" COMP;
+    image: "anim/ColorIconGlow_324.png" COMP;
+    image: "anim/ColorIconGlow_325.png" COMP;
+    image: "anim/ColorIconGlow_326.png" COMP;
+    image: "anim/ColorIconGlow_327.png" COMP;
+    image: "anim/ColorIconGlow_328.png" COMP;
+    image: "anim/ColorIconGlow_329.png" COMP;
+    image: "anim/ColorIconGlow_330.png" COMP;
+    image: "anim/ColorIconGlow_331.png" COMP;
+    image: "anim/ColorIconGlow_332.png" COMP;
+    image: "anim/ColorIconGlow_333.png" COMP;
+    image: "anim/ColorIconGlow_334.png" COMP;
+    image: "anim/ColorIconGlow_335.png" COMP;
+    image: "anim/ColorIconGlow_336.png" COMP;
+    image: "anim/ColorIconGlow_337.png" COMP;
+    image: "anim/ColorIconGlow_338.png" COMP;
+    image: "anim/ColorIconGlow_339.png" COMP;
+    image: "anim/ColorIconGlow_340.png" COMP;
+    image: "anim/ColorIconGlow_341.png" COMP;
+    image: "anim/ColorIconGlow_342.png" COMP;
+    image: "anim/ColorIconGlow_343.png" COMP;
+    image: "anim/ColorIconGlow_344.png" COMP;
+    image: "anim/ColorIconGlow_345.png" COMP;
+    image: "anim/ColorIconGlow_346.png" COMP;
+    image: "anim/ColorIconGlow_347.png" COMP;
+    image: "anim/ColorIconGlow_348.png" COMP;
+    image: "anim/ColorIconGlow_349.png" COMP;
+    image: "anim/ColorIconGlow_350.png" COMP;
+    image: "anim/ColorIconGlow_351.png" COMP;
+    image: "anim/ColorIconGlow_352.png" COMP;
+    image: "anim/ColorIconGlow_353.png" COMP;
+    image: "anim/ColorIconGlow_354.png" COMP;
+    image: "anim/ColorIconGlow_355.png" COMP;
+    image: "anim/ColorIconGlow_356.png" COMP;
+    image: "anim/ColorIconGlow_357.png" COMP;
+    image: "anim/ColorIconGlow_358.png" COMP;
+    image: "anim/ColorIconGlow_359.png" COMP;
+
+}
+
+collections {
+    group {
+        images {
+            image: "ENVENTOR_EMBEDDED_IMAGE.png" COMP;
+        }
+        name, "e/desktop/background";
+        min: 640 480;
+        max: 3840 2160;
+
+        parts {
+            // Background
+            part {
+                name: "background";
+                mouse_events: 0;
+
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/DarkBGColor.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }
+            }
+            // Moire
+            part {
+                name: "Dark Moire";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/DarkMoire.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Square Grid
+            part {
+                name: "Square Grid";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/SquareGrid.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }
+            // Sparrow Icon Glow
+            part {
+                name: "Sparrow Glow";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    aspect, 1.0 1.0;
+                    min: 300 300;
+                    max: 300 300;
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal:"anim/ColorIconGlow_0.png";
+                        tween, "anim/ColorIconGlow_1.png";
+                        tween, "anim/ColorIconGlow_2.png";
+                        tween, "anim/ColorIconGlow_3.png";
+                        tween, "anim/ColorIconGlow_4.png";
+                        tween, "anim/ColorIconGlow_5.png";
+                        tween, "anim/ColorIconGlow_6.png";
+                        tween, "anim/ColorIconGlow_7.png";
+                        tween, "anim/ColorIconGlow_8.png";
+                        tween, "anim/ColorIconGlow_9.png";
+                        tween, "anim/ColorIconGlow_10.png";
+                        tween, "anim/ColorIconGlow_11.png";
+                        tween, "anim/ColorIconGlow_12.png";
+                        tween, "anim/ColorIconGlow_13.png";
+                        tween, "anim/ColorIconGlow_14.png";
+                        tween, "anim/ColorIconGlow_15.png";
+                        tween, "anim/ColorIconGlow_16.png";
+                        tween, "anim/ColorIconGlow_17.png";
+                        tween, "anim/ColorIconGlow_18.png";
+                        tween, "anim/ColorIconGlow_19.png";
+                        tween, "anim/ColorIconGlow_20.png";
+                        tween, "anim/ColorIconGlow_21.png";
+                        tween, "anim/ColorIconGlow_22.png";
+                        tween, "anim/ColorIconGlow_23.png";
+                        tween, "anim/ColorIconGlow_24.png";
+                        tween, "anim/ColorIconGlow_25.png";
+                        tween, "anim/ColorIconGlow_26.png";
+                        tween, "anim/ColorIconGlow_27.png";
+                        tween, "anim/ColorIconGlow_28.png";
+                        tween, "anim/ColorIconGlow_29.png";
+                        tween, "anim/ColorIconGlow_30.png";
+                        tween, "anim/ColorIconGlow_31.png";
+                        tween, "anim/ColorIconGlow_32.png";
+                        tween, "anim/ColorIconGlow_33.png";
+                        tween, "anim/ColorIconGlow_34.png";
+                        tween, "anim/ColorIconGlow_35.png";
+                        tween, "anim/ColorIconGlow_36.png";
+                        tween, "anim/ColorIconGlow_37.png";
+                        tween, "anim/ColorIconGlow_38.png";
+                        tween, "anim/ColorIconGlow_39.png";
+                        tween, "anim/ColorIconGlow_40.png";
+                        tween, "anim/ColorIconGlow_41.png";
+                        tween, "anim/ColorIconGlow_42.png";
+                        tween, "anim/ColorIconGlow_43.png";
+                        tween, "anim/ColorIconGlow_44.png";
+                        tween, "anim/ColorIconGlow_45.png";
+                        tween, "anim/ColorIconGlow_46.png";
+                        tween, "anim/ColorIconGlow_47.png";
+                        tween, "anim/ColorIconGlow_48.png";
+                        tween, "anim/ColorIconGlow_49.png";
+                        tween, "anim/ColorIconGlow_50.png";
+                        tween, "anim/ColorIconGlow_51.png";
+                        tween, "anim/ColorIconGlow_52.png";
+                        tween, "anim/ColorIconGlow_53.png";
+                        tween, "anim/ColorIconGlow_54.png";
+                        tween, "anim/ColorIconGlow_55.png";
+                        tween, "anim/ColorIconGlow_56.png";
+                        tween, "anim/ColorIconGlow_57.png";
+                        tween, "anim/ColorIconGlow_58.png";
+                        tween, "anim/ColorIconGlow_59.png";
+                        tween, "anim/ColorIconGlow_60.png";
+                        tween, "anim/ColorIconGlow_61.png";
+                        tween, "anim/ColorIconGlow_62.png";
+                        tween, "anim/ColorIconGlow_63.png";
+                        tween, "anim/ColorIconGlow_64.png";
+                        tween, "anim/ColorIconGlow_65.png";
+                        tween, "anim/ColorIconGlow_66.png";
+                        tween, "anim/ColorIconGlow_67.png";
+                        tween, "anim/ColorIconGlow_68.png";
+                        tween, "anim/ColorIconGlow_69.png";
+                        tween, "anim/ColorIconGlow_70.png";
+                        tween, "anim/ColorIconGlow_71.png";
+                        tween, "anim/ColorIconGlow_72.png";
+                        tween, "anim/ColorIconGlow_73.png";
+                        tween, "anim/ColorIconGlow_74.png";
+                        tween, "anim/ColorIconGlow_75.png";
+                        tween, "anim/ColorIconGlow_76.png";
+                        tween, "anim/ColorIconGlow_77.png";
+                        tween, "anim/ColorIconGlow_78.png";
+                        tween, "anim/ColorIconGlow_79.png";
+                        tween, "anim/ColorIconGlow_80.png";
+                        tween, "anim/ColorIconGlow_81.png";
+                        tween, "anim/ColorIconGlow_82.png";
+                        tween, "anim/ColorIconGlow_83.png";
+                        tween, "anim/ColorIconGlow_84.png";
+                        tween, "anim/ColorIconGlow_85.png";
+                        tween, "anim/ColorIconGlow_86.png";
+                        tween, "anim/ColorIconGlow_87.png";
+                        tween, "anim/ColorIconGlow_88.png";
+                        tween, "anim/ColorIconGlow_89.png";
+                        tween, "anim/ColorIconGlow_90.png";
+                        tween, "anim/ColorIconGlow_91.png";
+                        tween, "anim/ColorIconGlow_92.png";
+                        tween, "anim/ColorIconGlow_93.png";
+                        tween, "anim/ColorIconGlow_94.png";
+                        tween, "anim/ColorIconGlow_95.png";
+                        tween, "anim/ColorIconGlow_96.png";
+                        tween, "anim/ColorIconGlow_97.png";
+                        tween, "anim/ColorIconGlow_98.png";
+                        tween, "anim/ColorIconGlow_99.png";
+                        tween, "anim/ColorIconGlow_100.png";
+                        tween, "anim/ColorIconGlow_101.png";
+                        tween, "anim/ColorIconGlow_102.png";
+                        tween, "anim/ColorIconGlow_103.png";
+                        tween, "anim/ColorIconGlow_104.png";
+                        tween, "anim/ColorIconGlow_105.png";
+                        tween, "anim/ColorIconGlow_106.png";
+                        tween, "anim/ColorIconGlow_107.png";
+                        tween, "anim/ColorIconGlow_108.png";
+                        tween, "anim/ColorIconGlow_109.png";
+                        tween, "anim/ColorIconGlow_110.png";
+                        tween, "anim/ColorIconGlow_111.png";
+                        tween, "anim/ColorIconGlow_112.png";
+                        tween, "anim/ColorIconGlow_113.png";
+                        tween, "anim/ColorIconGlow_114.png";
+                        tween, "anim/ColorIconGlow_115.png";
+                        tween, "anim/ColorIconGlow_116.png";
+                        tween, "anim/ColorIconGlow_117.png";
+                        tween, "anim/ColorIconGlow_118.png";
+                        tween, "anim/ColorIconGlow_119.png";
+                        tween, "anim/ColorIconGlow_120.png";
+                        tween, "anim/ColorIconGlow_121.png";
+                        tween, "anim/ColorIconGlow_122.png";
+                        tween, "anim/ColorIconGlow_123.png";
+                        tween, "anim/ColorIconGlow_124.png";
+                        tween, "anim/ColorIconGlow_125.png";
+                        tween, "anim/ColorIconGlow_126.png";
+                        tween, "anim/ColorIconGlow_127.png";
+                        tween, "anim/ColorIconGlow_128.png";
+                        tween, "anim/ColorIconGlow_129.png";
+                        tween, "anim/ColorIconGlow_130.png";
+                        tween, "anim/ColorIconGlow_131.png";
+                        tween, "anim/ColorIconGlow_132.png";
+                        tween, "anim/ColorIconGlow_133.png";
+                        tween, "anim/ColorIconGlow_134.png";
+                        tween, "anim/ColorIconGlow_135.png";
+                        tween, "anim/ColorIconGlow_136.png";
+                        tween, "anim/ColorIconGlow_137.png";
+                        tween, "anim/ColorIconGlow_138.png";
+                        tween, "anim/ColorIconGlow_139.png";
+                        tween, "anim/ColorIconGlow_140.png";
+                        tween, "anim/ColorIconGlow_141.png";
+                        tween, "anim/ColorIconGlow_142.png";
+                        tween, "anim/ColorIconGlow_143.png";
+                        tween, "anim/ColorIconGlow_144.png";
+                        tween, "anim/ColorIconGlow_145.png";
+                        tween, "anim/ColorIconGlow_146.png";
+                        tween, "anim/ColorIconGlow_147.png";
+                        tween, "anim/ColorIconGlow_148.png";
+                        tween, "anim/ColorIconGlow_149.png";
+                        tween, "anim/ColorIconGlow_150.png";
+                        tween, "anim/ColorIconGlow_151.png";
+                        tween, "anim/ColorIconGlow_152.png";
+                        tween, "anim/ColorIconGlow_153.png";
+                        tween, "anim/ColorIconGlow_154.png";
+                        tween, "anim/ColorIconGlow_155.png";
+                        tween, "anim/ColorIconGlow_156.png";
+                        tween, "anim/ColorIconGlow_157.png";
+                        tween, "anim/ColorIconGlow_158.png";
+                        tween, "anim/ColorIconGlow_159.png";
+                        tween, "anim/ColorIconGlow_160.png";
+                        tween, "anim/ColorIconGlow_161.png";
+                        tween, "anim/ColorIconGlow_162.png";
+                        tween, "anim/ColorIconGlow_163.png";
+                        tween, "anim/ColorIconGlow_164.png";
+                        tween, "anim/ColorIconGlow_165.png";
+                        tween, "anim/ColorIconGlow_166.png";
+                        tween, "anim/ColorIconGlow_167.png";
+                        tween, "anim/ColorIconGlow_168.png";
+                        tween, "anim/ColorIconGlow_169.png";
+                        tween, "anim/ColorIconGlow_170.png";
+                        tween, "anim/ColorIconGlow_171.png";
+                        tween, "anim/ColorIconGlow_172.png";
+                        tween, "anim/ColorIconGlow_173.png";
+                        tween, "anim/ColorIconGlow_174.png";
+                        tween, "anim/ColorIconGlow_175.png";
+                        tween, "anim/ColorIconGlow_176.png";
+                        tween, "anim/ColorIconGlow_177.png";
+                        tween, "anim/ColorIconGlow_178.png";
+                        tween, "anim/ColorIconGlow_179.png";
+                        tween, "anim/ColorIconGlow_180.png";
+                        tween, "anim/ColorIconGlow_181.png";
+                        tween, "anim/ColorIconGlow_182.png";
+                        tween, "anim/ColorIconGlow_183.png";
+                        tween, "anim/ColorIconGlow_184.png";
+                        tween, "anim/ColorIconGlow_185.png";
+                        tween, "anim/ColorIconGlow_186.png";
+                        tween, "anim/ColorIconGlow_187.png";
+                        tween, "anim/ColorIconGlow_188.png";
+                        tween, "anim/ColorIconGlow_189.png";
+                        tween, "anim/ColorIconGlow_190.png";
+                        tween, "anim/ColorIconGlow_191.png";
+                        tween, "anim/ColorIconGlow_192.png";
+                        tween, "anim/ColorIconGlow_193.png";
+                        tween, "anim/ColorIconGlow_194.png";
+                        tween, "anim/ColorIconGlow_195.png";
+                        tween, "anim/ColorIconGlow_196.png";
+                        tween, "anim/ColorIconGlow_197.png";
+                        tween, "anim/ColorIconGlow_198.png";
+                        tween, "anim/ColorIconGlow_199.png";
+                        tween, "anim/ColorIconGlow_200.png";
+                        tween, "anim/ColorIconGlow_201.png";
+                        tween, "anim/ColorIconGlow_202.png";
+                        tween, "anim/ColorIconGlow_203.png";
+                        tween, "anim/ColorIconGlow_204.png";
+                        tween, "anim/ColorIconGlow_205.png";
+                        tween, "anim/ColorIconGlow_206.png";
+                        tween, "anim/ColorIconGlow_207.png";
+                        tween, "anim/ColorIconGlow_208.png";
+                        tween, "anim/ColorIconGlow_209.png";
+                        tween, "anim/ColorIconGlow_210.png";
+                        tween, "anim/ColorIconGlow_211.png";
+                        tween, "anim/ColorIconGlow_212.png";
+                        tween, "anim/ColorIconGlow_213.png";
+                        tween, "anim/ColorIconGlow_214.png";
+                        tween, "anim/ColorIconGlow_215.png";
+                        tween, "anim/ColorIconGlow_216.png";
+                        tween, "anim/ColorIconGlow_217.png";
+                        tween, "anim/ColorIconGlow_218.png";
+                        tween, "anim/ColorIconGlow_219.png";
+                        tween, "anim/ColorIconGlow_220.png";
+                        tween, "anim/ColorIconGlow_221.png";
+                        tween, "anim/ColorIconGlow_222.png";
+                        tween, "anim/ColorIconGlow_223.png";
+                        tween, "anim/ColorIconGlow_224.png";
+                        tween, "anim/ColorIconGlow_225.png";
+                        tween, "anim/ColorIconGlow_226.png";
+                        tween, "anim/ColorIconGlow_227.png";
+                        tween, "anim/ColorIconGlow_228.png";
+                        tween, "anim/ColorIconGlow_229.png";
+                        tween, "anim/ColorIconGlow_230.png";
+                        tween, "anim/ColorIconGlow_231.png";
+                        tween, "anim/ColorIconGlow_232.png";
+                        tween, "anim/ColorIconGlow_233.png";
+                        tween, "anim/ColorIconGlow_234.png";
+                        tween, "anim/ColorIconGlow_235.png";
+                        tween, "anim/ColorIconGlow_236.png";
+                        tween, "anim/ColorIconGlow_237.png";
+                        tween, "anim/ColorIconGlow_238.png";
+                        tween, "anim/ColorIconGlow_239.png";
+                        tween, "anim/ColorIconGlow_240.png";
+                        tween, "anim/ColorIconGlow_241.png";
+                        tween, "anim/ColorIconGlow_242.png";
+                        tween, "anim/ColorIconGlow_243.png";
+                        tween, "anim/ColorIconGlow_244.png";
+                        tween, "anim/ColorIconGlow_245.png";
+                        tween, "anim/ColorIconGlow_246.png";
+                        tween, "anim/ColorIconGlow_247.png";
+                        tween, "anim/ColorIconGlow_248.png";
+                        tween, "anim/ColorIconGlow_249.png";
+                        tween, "anim/ColorIconGlow_250.png";
+                        tween, "anim/ColorIconGlow_251.png";
+                        tween, "anim/ColorIconGlow_252.png";
+                        tween, "anim/ColorIconGlow_253.png";
+                        tween, "anim/ColorIconGlow_254.png";
+                        tween, "anim/ColorIconGlow_255.png";
+                        tween, "anim/ColorIconGlow_256.png";
+                        tween, "anim/ColorIconGlow_257.png";
+                        tween, "anim/ColorIconGlow_258.png";
+                        tween, "anim/ColorIconGlow_259.png";
+                        tween, "anim/ColorIconGlow_260.png";
+                        tween, "anim/ColorIconGlow_261.png";
+                        tween, "anim/ColorIconGlow_262.png";
+                        tween, "anim/ColorIconGlow_263.png";
+                        tween, "anim/ColorIconGlow_264.png";
+                        tween, "anim/ColorIconGlow_265.png";
+                        tween, "anim/ColorIconGlow_266.png";
+                        tween, "anim/ColorIconGlow_267.png";
+                        tween, "anim/ColorIconGlow_268.png";
+                        tween, "anim/ColorIconGlow_269.png";
+                        tween, "anim/ColorIconGlow_270.png";
+                        tween, "anim/ColorIconGlow_271.png";
+                        tween, "anim/ColorIconGlow_272.png";
+                        tween, "anim/ColorIconGlow_273.png";
+                        tween, "anim/ColorIconGlow_274.png";
+                        tween, "anim/ColorIconGlow_275.png";
+                        tween, "anim/ColorIconGlow_276.png";
+                        tween, "anim/ColorIconGlow_277.png";
+                        tween, "anim/ColorIconGlow_278.png";
+                        tween, "anim/ColorIconGlow_279.png";
+                        tween, "anim/ColorIconGlow_280.png";
+                        tween, "anim/ColorIconGlow_281.png";
+                        tween, "anim/ColorIconGlow_282.png";
+                        tween, "anim/ColorIconGlow_283.png";
+                        tween, "anim/ColorIconGlow_284.png";
+                        tween, "anim/ColorIconGlow_285.png";
+                        tween, "anim/ColorIconGlow_286.png";
+                        tween, "anim/ColorIconGlow_287.png";
+                        tween, "anim/ColorIconGlow_288.png";
+                        tween, "anim/ColorIconGlow_289.png";
+                        tween, "anim/ColorIconGlow_290.png";
+                        tween, "anim/ColorIconGlow_291.png";
+                        tween, "anim/ColorIconGlow_292.png";
+                        tween, "anim/ColorIconGlow_293.png";
+                        tween, "anim/ColorIconGlow_294.png";
+                        tween, "anim/ColorIconGlow_295.png";
+                        tween, "anim/ColorIconGlow_296.png";
+                        tween, "anim/ColorIconGlow_297.png";
+                        tween, "anim/ColorIconGlow_298.png";
+                        tween, "anim/ColorIconGlow_299.png";
+                        tween, "anim/ColorIconGlow_300.png";
+                        tween, "anim/ColorIconGlow_301.png";
+                        tween, "anim/ColorIconGlow_302.png";
+                        tween, "anim/ColorIconGlow_303.png";
+                        tween, "anim/ColorIconGlow_304.png";
+                        tween, "anim/ColorIconGlow_305.png";
+                        tween, "anim/ColorIconGlow_306.png";
+                        tween, "anim/ColorIconGlow_307.png";
+                        tween, "anim/ColorIconGlow_308.png";
+                        tween, "anim/ColorIconGlow_309.png";
+                        tween, "anim/ColorIconGlow_310.png";
+                        tween, "anim/ColorIconGlow_311.png";
+                        tween, "anim/ColorIconGlow_312.png";
+                        tween, "anim/ColorIconGlow_313.png";
+                        tween, "anim/ColorIconGlow_314.png";
+                        tween, "anim/ColorIconGlow_315.png";
+                        tween, "anim/ColorIconGlow_316.png";
+                        tween, "anim/ColorIconGlow_317.png";
+                        tween, "anim/ColorIconGlow_318.png";
+                        tween, "anim/ColorIconGlow_319.png";
+                        tween, "anim/ColorIconGlow_320.png";
+                        tween, "anim/ColorIconGlow_321.png";
+                        tween, "anim/ColorIconGlow_322.png";
+                        tween, "anim/ColorIconGlow_323.png";
+                        tween, "anim/ColorIconGlow_324.png";
+                        tween, "anim/ColorIconGlow_325.png";
+                        tween, "anim/ColorIconGlow_326.png";
+                        tween, "anim/ColorIconGlow_327.png";
+                        tween, "anim/ColorIconGlow_328.png";
+                        tween, "anim/ColorIconGlow_329.png";
+                        tween, "anim/ColorIconGlow_330.png";
+                        tween, "anim/ColorIconGlow_331.png";
+                        tween, "anim/ColorIconGlow_332.png";
+                        tween, "anim/ColorIconGlow_333.png";
+                        tween, "anim/ColorIconGlow_334.png";
+                        tween, "anim/ColorIconGlow_335.png";
+                        tween, "anim/ColorIconGlow_336.png";
+                        tween, "anim/ColorIconGlow_337.png";
+                        tween, "anim/ColorIconGlow_338.png";
+                        tween, "anim/ColorIconGlow_339.png";
+                        tween, "anim/ColorIconGlow_340.png";
+                        tween, "anim/ColorIconGlow_341.png";
+                        tween, "anim/ColorIconGlow_342.png";
+                        tween, "anim/ColorIconGlow_343.png";
+                        tween, "anim/ColorIconGlow_344.png";
+                        tween, "anim/ColorIconGlow_345.png";
+                        tween, "anim/ColorIconGlow_346.png";
+                        tween, "anim/ColorIconGlow_347.png";
+                        tween, "anim/ColorIconGlow_348.png";
+                        tween, "anim/ColorIconGlow_349.png";
+                        tween, "anim/ColorIconGlow_350.png";
+                        tween, "anim/ColorIconGlow_351.png";
+                        tween, "anim/ColorIconGlow_352.png";
+                        tween, "anim/ColorIconGlow_353.png";
+                        tween, "anim/ColorIconGlow_354.png";
+                        tween, "anim/ColorIconGlow_355.png";
+                        tween, "anim/ColorIconGlow_356.png";
+                        tween, "anim/ColorIconGlow_357.png";
+                        tween, "anim/ColorIconGlow_358.png";
+                        tween, "anim/ColorIconGlow_359.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                    programs {
+                        program {
+                            name: "sparrow_rainbower";
+                            signal: "show";
+                            source: "";
+                            action: STATE_SET "default" 0.0;
+                            transition: LINEAR 60.0;
+                            target: "Sparrow Glow";
+                            after: "sparrow_rainbower";
+                        }
+                    }
+                }        
+            }
+            // Sparrow Icon
+            part {
+                name: "Sparrow";
+                mouse_events: 0;
+                
+                description {
+                    state: "default" 0.0;
+                    // aspect, 1.5 1.5
+                    rel1 {
+                        relative: 0.0 0.0;
+                        offset:   0   0;
+                    }
+                    rel2 {
+                        relative: 1.0 1.0;
+                        offset:   -1  -1;
+                    }
+                    image {
+                        normal: "Components/DarkIcon.png";
+                    }
+                    fill {
+                        smooth, 0;
+                    }
+                }        
+            }       
+        }
+    }
+}
